@@ -1,0 +1,8 @@
+{
+  "main":"lbaas.vxproxy.Starter",
+  "description":"Virtual Proxy running over Vert.x",
+  "licenses": ["The Apache Software License Version 2.0"],
+  "author": "LBaaS A-Team",
+  "homepage": "http://github.com/tuxmonteiro/vxproxy",
+  "auto-redeploy": true
+}
