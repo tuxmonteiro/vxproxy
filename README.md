@@ -1,3 +1,7 @@
+OBSOLETE (reimplemented with new name: vxrouter)<br>
+https://github.com/tuxmonteiro/vxrouter
+
+
 # vxProxy
 
 ## Source
